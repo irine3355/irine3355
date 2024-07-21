@@ -3,7 +3,7 @@
 
 ## LEE KYUNGMI 👋
 
-### Studying
+### 🌱 Studying
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Tools
+### ⚡ Tools
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -21,7 +21,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 
-![LEE KYUNGMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=irine3355&show_icons=true&theme=radical&color=auto)
+![LEE KYUNGMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=irine3355&show_icons=true&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irine3355)](https://github.com/irine3355/github-readme-stats)
 
