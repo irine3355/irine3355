@@ -25,13 +25,14 @@
 ### ⚡ Memos
 - [나의 블로그](https://blog.naver.com/0flex?usp=drive_link)
   
-- [스터디공유정보.excel](https://docs.google.com/spreadsheets/d/1aBF9UNNLIS8D5DCbdJm2ccuF_8xIya3EtoHq2nuRG10/edit?usp=drive_link)
+
   
 ![LEE KYUNGMI's GitHub stats](https://github-readme-stats.vercel.app/api?username=irine3355&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irine3355)](https://github.com/irine3355/github-readme-stats)
 
 <!--
+- [스터디공유정보.excel](https://docs.google.com/spreadsheets/d/1aBF9UNNLIS8D5DCbdJm2ccuF_8xIya3EtoHq2nuRG10/edit?usp=drive_link)
 통계에서 제외할 저장소 지정하기
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 통계에서 특정 언어 제외하기
