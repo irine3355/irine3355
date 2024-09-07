@@ -5,7 +5,7 @@
 </a>
 
 ## LEE KYUNGMI 
-## 👋 [web Resume & Portfolio Link](https://www.notion.so/0829466d9a544d2d996218363526e89d?usp=drive_link)
+<!-- ## 👋 [web Resume & Portfolio Link](https://www.notion.so/0829466d9a544d2d996218363526e89d?usp=drive_link) -->
 
 ### 🌱 Studying
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
