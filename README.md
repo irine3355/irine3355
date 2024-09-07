@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LEE%20KYUNGMI&fontSize=20)
 
+<a href="https://github.com/irine3355/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{irine3355}"/>
+</a>
 
 ## LEE KYUNGMI 👋
 
